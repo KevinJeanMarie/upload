@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "username": "jack",
+          "email": "jack@jack.jack",
+      "password": "hello",
+          "age": 99,
+          "profile_picture":""
+    },
+    {
+      "id": 2,
+      "username": "john",
+          "email": "john@john.john",
+      "password": "yoyo",
+          "age": 1,
+          "profile_picture":""
+    },
+    {
+        "id":3,
+        "username":"jack0",
+        "email":"jacko@jack.jack",
+        "age":1,
+        "password":"yoyoyooyoyo",
+        "profile_picture":""
+    }
+
+]
