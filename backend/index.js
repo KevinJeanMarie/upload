@@ -5,6 +5,7 @@ const session = require("express-session")
 const passport = require("./config/passport")
 const cors = require("cors")
 
+
 //6 importer les route du dossier routes
 const authRoutes = require("./routes/auth")
 
